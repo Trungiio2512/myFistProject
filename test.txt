@@ -8,6 +8,12 @@ git log : hiển thị thao tác đã làm
 git remote add teenproject + link url 
 git push --set-upstream teneporject master
 //tải project từ github về
+//fix error ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs
+
+git pull
+git commit -m "nội dung"
+git push
 
  
 =======
