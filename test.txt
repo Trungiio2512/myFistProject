@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git status : kiểm tra file
 git add " tên file " : thêm file có tên
 git add .  : thêm tất cả
@@ -9,3 +10,8 @@ git push --set-upstream teneporject master
 //tải project từ github về
 
  
+=======
+rewrwertewettewtee
+twetrwtwetrretwe
+trinng jfwfje
+>>>>>>> d6b103e86b7b5bb30a1e9df16c206d881f010057
