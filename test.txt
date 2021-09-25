@@ -4,3 +4,8 @@ git add .  : thêm tất cả
 git commit -m " nội dung " :chú thích thay đổi
 git commit -a -m " nội dung " : chú thích và thêm file
 git log : hiển thị thao tác đã làm
+git remote add teenproject + link url 
+git push --set-upstream teneporject master
+//tải project từ github về
+
+ 
