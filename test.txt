@@ -1,2 +1,6 @@
-tewettewtee
-twetrwtwetrretwe
+git status : kiểm tra file
+git add " tên file " : thêm file có tên
+git add .  : thêm tất cả
+git commit -m " nội dung " :chú thích thay đổi
+git commit -a -m " nội dung " : chú thích và thêm file
+git log : hiển thị thao tác đã làm
