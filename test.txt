@@ -15,7 +15,17 @@ git pull
 git commit -m "nội dung"
 git push
 
- 
+ // revert lại file trước trên máy
+
+git log 
+cop id commit với nội dung commit tương ứng
+git revert + id vừa cop
+nhấn ctrl + c
+:q
+git push // đưa lại lên github
+
+th1:
+//
 =======
 rewrwertewettewtee
 twetrwtwetrretwe
